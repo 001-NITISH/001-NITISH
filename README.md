@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Engineering<br>👯 I’m looking to collaborate on different technologies<br>🤝 I’m looking for help with Internship opportunities<br>🌱 I’m currently doing Machine learning<br>💬 Ask me about tech<br>⚡ Fun fact: Code is my medication
+🔭 I’m currently working on Software Engineering<br>👯 I’m looking to collaborate on different technologies<br>🤝 I’m looking for help with Internship opportunities<br>🌱 I’m currently doing Machine learning<br>💬 Ask me about tech<br>⚡ Fun fact: Internet is my playground
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=001-NITISH&icon=4&color=4)](https://visitcount.itsvg.in)
